@@ -45,7 +45,7 @@ wget --no-check-certificate -qO client-linux.py 'https://raw.githubusercontent.c
 # 主题：            
 
 * layui：https://github.com/zeyudada/StatusServerLayui        
-<img src=https://dl.cpp.la/Archive/serverstatus_layui.png width=200 height=100 /> 
+![StatusServerLayui](https://dl.cpp.la/Archive/serverstatus_layui.png)  
 
 # 手动安装教程：     
    
